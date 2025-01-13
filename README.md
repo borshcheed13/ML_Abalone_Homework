@@ -1,5 +1,5 @@
-# ML_Shoppers
-**ML_Shoppers** - это проект машинного обучения
+# ML_Abalone_Homework
+**ML_Abalone_Homework** - это проект машинного обучения
 
 
 ## Установка
